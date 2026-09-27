@@ -1,0 +1,17 @@
+{
+  "name": "Davonium Nexus Control Center",
+  "short_name": "Nexus",
+  "description": "Private Davonium personal control center.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#f4f7fc",
+  "icons": [
+    {
+      "src": "/davonium-d-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
